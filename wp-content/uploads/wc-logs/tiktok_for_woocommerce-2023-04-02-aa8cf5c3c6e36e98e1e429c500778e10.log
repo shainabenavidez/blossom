@@ -1,0 +1,21 @@
+2023-04-02T19:35:28+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit injectStartCheckout
+2023-04-02T19:35:28+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"
+2023-04-02T19:53:26+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T19:53:26+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-04-02T20:17:50+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:22:57+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:23:06+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:23:12+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:23:20+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:24:18+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-04-02T20:24:18+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-04-02T20:26:46+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit injectAddToCartEvent
+2023-04-02T20:26:46+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-04-02T20:26:50+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit injectAddToCartEvent
+2023-04-02T20:26:50+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-04-02T20:27:21+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit injectStartCheckout
+2023-04-02T20:27:21+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"
+2023-04-02T20:27:57+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit injectStartCheckout
+2023-04-02T20:27:57+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"
+2023-04-02T20:29:18+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: hit injectPurchaseEvent
+2023-04-02T20:29:18+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: Missing option "access_token"

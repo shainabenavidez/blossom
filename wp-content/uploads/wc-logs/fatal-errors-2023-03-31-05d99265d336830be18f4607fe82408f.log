@@ -1,0 +1,16 @@
+2023-03-31T19:03:18+00:00 CRITICAL Uncaught Error: Class "OceanWP_Customizer_Range_Control" not found in C:\Users\shaina\Local Sites\blossomshop\app\public\wp-content\plugins\ocean-extra\includes\preloader\customizer.php:224
+Stack trace:
+#0 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\class-wp-hook.php(308): Ocean_Preloader_Customizer->customizer_options(Object(WP_Customize_Manager))
+#1 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\class-wp-customize-manager.php(934): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Manager->wp_loaded('')
+#5 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-settings.php(645): do_action('wp_loaded')
+#8 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-config.php(93): require_once('C:\\Users\\shaina...')
+#9 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-load.php(50): require_once('C:\\Users\\shaina...')
+#10 C:\Users\shaina\Local Sites\blossomshop\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\shaina...')
+#11 {main}
+  thrown in C:\Users\shaina\Local Sites\blossomshop\app\public\wp-content\plugins\ocean-extra\includes\preloader\customizer.php on line 224
+
